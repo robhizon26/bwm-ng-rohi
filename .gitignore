@@ -60,3 +60,4 @@ README_orig.md
 
 #environments
 /src/environments/environment.ts
+/src/environments/environment.prod.ts
